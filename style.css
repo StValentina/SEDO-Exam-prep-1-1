@@ -1,4 +1,6 @@
-
+/*
+Basic styles for the calculator application
+*/
 body {
   font-family: Arial, sans-serif;
   display: flex;
